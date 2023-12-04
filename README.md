@@ -39,3 +39,7 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+
+![image](https://github.com/RychardGutierrez/expensee-tracker-vue-3/assets/59939891/3aba8cb1-1e70-4d0b-bbf7-c668d3e3402e)
+
